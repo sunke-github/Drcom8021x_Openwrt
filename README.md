@@ -13,8 +13,8 @@ Drcom8021x 软件是根据 EasyDrcom软件重构而来,该源码地址:https://g
 (1)软件在编译调试过程中如果无法找到配置文件,请修改 def.h 中的路径为绝对路径.<br>
 (2)编译时请配置你的交叉工具链.<br>
 (3)使用Linux 下的CDT 创建和编译该工程,直接导入该工程即可编译.编译时请在<br> 
-  工程->Properities->C/C++ Build->Settings->GCC C++ Compiler 中添加 -std=c++11<br>
-  工程->Properities->C/C++ Build->Settings->GCC C++ Linker  Miscellaneous中 添加 -lpcap -L/PATH(你的openwrt libpcap 库的路径)
+  工程->Properities->C/C++ Build->Settings->Cross C++ Compiler 中添加 -std=c++11<br>
+  工程->Properities->C/C++ Build->Settings->Cross C++ Linker  Miscellaneous中 添加 -lpcap -L/PATH(你的openwrt libpcap 库的路径)
   
 
 
