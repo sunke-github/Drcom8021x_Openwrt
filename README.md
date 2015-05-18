@@ -11,7 +11,7 @@ Drcom8021x 软件是根据 EasyDrcom软件重构而来,该源码地址:https://g
 
 
 ##编译软件:
-具体CDT 交叉工具链的配置过程请参见我的博客http://www.cnblogs.com/dreamfactory/p/4480379.html
+具体CDT 交叉工具链的配置过程请参见我的博客http://www.cnblogs.com/dreamfactory/p/4480379.html<br>
 (1)软件在编译调试过程中如果无法找到配置文件,请修改 def.h 中的路径为绝对路径.<br>
 (2)编译时请配置你的交叉工具链.<br>
 (3)使用Linux 下的CDT 创建和编译该工程,直接导入该工程即可编译.编译时请在<br> 
