@@ -7,7 +7,7 @@ Drcom8021x 软件是根据 EasyDrcom软件重构而来,该源码地址:https://g
 
 ##功能概述:
 
-该软件可以实现 drcom的 802.1x 认证,适用于部分地区和学校.可在OpenWrt系统mips_AR7xxx_AR9xxx  CPU架构运行.运行同时请将配置文件放于相同目录.<br>省略原EasyDrcom 认证模式和注销功能.设置请修改可执行文件下的 Drcom8021x.conf文件. <br>
+该软件可以实现 drcom的 802.1x 认证,适用于适用山东师范大学(千佛山校区与长清校区).可在OpenWrt系统mips_AR7xxx_AR9xxx  CPU架构运行.运行同时请将配置文件放于相同目录.<br>省略原EasyDrcom 认证模式和注销功能.设置请修改可执行文件下的 Drcom8021x.conf文件. <br>
 在openwrt上自启动,请在Sysem->Startup->Local Startup中加入<br>
 
 cd /root/Release_openwrt/ <br>
