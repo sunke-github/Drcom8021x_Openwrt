@@ -1,5 +1,5 @@
 # Drcom8021x_Openwrt
-欢迎访问我的个人主页 www.shareideas.net
+欢迎访问我的个人主页 www.shareideas.top
 
 ## 声明:
 Drcom8021x 软件是根据 EasyDrcom软件重构而来,该源码地址:https://github.com/coverxit/EasyDrcom .
@@ -30,4 +30,4 @@ exit 0 <br>
 该软件是做交流学习使用,请勿用作非法用途. 使用本软件带来的法律问题由使用者付全责与软件作者无关.
 
 ## 个人网页:
-www.shareideas.net
+www.shareideas.top
